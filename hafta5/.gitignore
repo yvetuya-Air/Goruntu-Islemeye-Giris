@@ -1,0 +1,11 @@
+*.o
+*.out
+*.exe
+__pycache__/
+.ipynb_checkpoints/
+# Exécutables compilés
+hist_opencv
+hist_manual
+gray_cpu
+hist_cuda
+gray_cuda
