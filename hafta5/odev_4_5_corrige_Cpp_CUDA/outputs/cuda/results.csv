@@ -1,0 +1,6 @@
+image,width,height,gray_cuda_vs_opencv_error,viridis_cuda_vs_opencv_error,original_vs_viridis_mae
+image_0_1000,789,478,0,0,69.437039
+image_0_1054,151,429,0,0,70.078379
+image_0_1062,61,263,0,0,69.487398
+image_0_1071,149,266,0,0,72.497847
+image_0_1072,581,478,0,0,59.770183
