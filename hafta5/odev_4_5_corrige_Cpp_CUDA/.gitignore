@@ -1,0 +1,7 @@
+*.o
+*.exe
+*.out
+convert_cpp
+convert_cuda
+xray_cpp
+xray_cuda
